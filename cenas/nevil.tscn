@@ -1,6 +1,6 @@
 [gd_scene format=3 uid="uid://cs8vw4x7wuppw"]
 
-[ext_resource type="Script" uid="uid://yd2nlg2id8vs" path="res://nevil.gd" id="1_sdcdc"]
+[ext_resource type="Script" uid="uid://yd2nlg2id8vs" path="res://scripts/nevil.gd" id="1_sdcdc"]
 [ext_resource type="Texture2D" uid="uid://bsdtfc4hxsscn" path="res://sprites/Nevil.png" id="1_uiamh"]
 [ext_resource type="Texture2D" uid="uid://dv225n8jxvt2w" path="res://sprites/Captura de tela de 2026-11-23 20-11-22.png" id="2_sdcdc"]
 
@@ -287,7 +287,7 @@ position = Vector2(156.00002, 496.37903)
 scale = Vector2(0.6, 0.6)
 sprite_frames = SubResource("SpriteFrames_tvhuv")
 animation = &"parado"
-frame_progress = 0.38460663
+frame_progress = 0.7047624
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="." unique_id=731290850]
 position = Vector2(161, 496)
